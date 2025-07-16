@@ -1,30 +1,30 @@
 ---
-title: Connecting to GitHub with SSH
-intro: 'You can connect to {% data variables.product.github %} using the Secure Shell Protocol (SSH), which provides a secure channel over an unsecured network.'
-redirect_from:
-  - /key-setup-redirect
-  - /linux-key-setup
-  - /mac-key-setup
+tytuł: Łęcze sić z GitHub za pomocć SSH
+intro: 'Możesz polczyk sić z {% data variables.product.github %} za pomocć protokołu Secure Shell Protocol (SSH), który zapewnia bezpieczny kanał w niezabezpieczoj sieci.'
+przekierowanie_z:
+  - /ustawienie klucza-przekierowanie
+  - /konfiguracja klucza linux
+  - /konfiguracja klucza mac
   - /msysgit-key-setup
-  - /articles/ssh-key-setup
-  - /articles/generating-ssh-keys
-  - /articles/generating-an-ssh-key
-  - /articles/connecting-to-github-with-ssh
-  - /github/authenticating-to-github/connecting-to-github-with-ssh
-versions:
-  fpt: '*'
-  ghes: '*'
-  ghec: '*'
-topics:
+  - /artykuł/ustawienie klucza ssh
+  - /artykuł/generowana kluczy ssh
+  - /artykuł/generowanie-klucza-ssh
+  - /artykuły/łęczenie-z-github-z-ssh
+  - /github/uwierzytelnianie-do-github/łęczenie-do-github-z-ssh
+wersje:
+ fpt: '*'
+ ghes: '*'
+ ghec: '*'
+tematy:
   - SSH
-children:
-  - /about-ssh
-  - /using-ssh-agent-forwarding
-  - /managing-deploy-keys
-  - /checking-for-existing-ssh-keys
-  - /generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
-  - /adding-a-new-ssh-key-to-your-github-account
-  - /testing-your-ssh-connection
-  - /working-with-ssh-key-passphrases
-shortTitle: Connect with SSH
+dzieci:
+  - /około-ssh
+  - /używanie-ssh-agent-forwarding
+  - /zarządza-wdrażanie-kluczy
+  - /sprawdzanie istniejących kluczy ssh
+  - /generowanie nowego klucza ssh i podawanie idzz do agenta ssh
+  - /dodanie-nowego-klucza-ssh-do-Twojego-konta-github
+  - /testowianie połęczyna ssh
+  - /praca z frazami-klucz-hasło-ssh
+krotkiTytuł: Polić sić z SSH
 ---
